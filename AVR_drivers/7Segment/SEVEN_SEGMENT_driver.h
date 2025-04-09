@@ -11,7 +11,6 @@
 
 void sevenSeg_init (char port);
 void sevenSeg_displayNum (char port , char num);
-void sevenSeg_displayNum2 (char port , char num);
 void BCD_init (char port , char nibble);
 void BCD_displayNum (char port , char nipple , char num);
 
